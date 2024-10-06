@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="1333.3333"
+   height="348"
+   viewBox="0 0 1333.3333 348"
+   sodipodi:docname="rapidoh-badge.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.63675004"
+     inkscape:cx="1098.5472"
+     inkscape:cy="208.08793"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <rect
+       style="fill:#000000"
+       id="rect1"
+       width="1333.3333"
+       height="345.50449"
+       x="3.14095"
+       y="204.16173" />
+    <rect
+       style="fill:#e6e6e6;stroke-width:1.08359"
+       id="rect2"
+       width="1300.3534"
+       height="309.38358"
+       x="18.845701"
+       y="221.437" />
+    <rect
+       style="fill:#000000;stroke-width:0.986141"
+       id="rect3"
+       width="1261.0913"
+       height="265.41025"
+       x="36.120922"
+       y="244.99409" />
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;fill:#ffffff;-inkscape-font-specification:'Javanese Text, Normal';font-family:'Javanese Text';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="91.087509"
+       y="361.20926"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="91.087509"
+         y="361.20926">RAPIDOH EMPIRE SALOON</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:66.6667px;font-family:'Javanese Text';-inkscape-font-specification:'Javanese Text, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
+       x="210.44363"
+       y="449.15582"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="210.44363"
+         y="449.15582">Timeless Beauty Modern Style</tspan></text>
+  </g>
+</svg>
