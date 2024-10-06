@@ -38,7 +38,7 @@ const HomeVideo = () => {
                     Timeless Beauty, Unmatched Style.
                     </h3>
                     <button className="btn animate-bounce" >
-                      <Link href="https://rapidohempiresalon.setmore.com/">Book Appointment</Link>
+                      <Link href="https://booking.setmore.com/scheduleappointment/2a705174-d5b0-4479-beb1-2a7440d8bfe9">Book Appointment</Link>
                     </button>
                 </div>
         </div>
