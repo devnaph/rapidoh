@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const HomeVideo = () => {
     return (
       <div className="pointer-events-none relative h-[470px] select-none md:h-[calc(100vh_-_80px)] mt-[150px] xl:mt-[155px]">
